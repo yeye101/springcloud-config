@@ -1,1 +1,2 @@
- Running the evict task with compensationTime 2ms
+ config: 
+  info: "Master Running the evict task with compensationTime 2ms"
